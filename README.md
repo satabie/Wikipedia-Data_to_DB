@@ -2,7 +2,11 @@
 
 前提：postgresqlの環境構築の環境構築を終わらせておくこと．
 
-
+## requirements
+作業フォルダに移動して以下を実行
+```
+pip install -r requirements.txt
+```
 
 ## 手順の説明：
 1. [wikipedia:featured articles](https://en.wikipedia.org/wiki/Wikipedia:Featured_articles)へアクセスし，ソースの内容をwiki_feature_articles.txtへコピペする
