@@ -1,4 +1,4 @@
-#!/home/shoseisan/python-dev/Wikipedia-Data_to_DB/.venv/bin/python3
+#!/home/shoseisan/python-dev/wikipedia-Data_to_DB/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

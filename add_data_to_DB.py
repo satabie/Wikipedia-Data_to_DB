@@ -19,18 +19,19 @@ DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_USER = "postgres"
 DB_PASS = "postgres"
-DB_NAME = "wikipedia_featured_articles"
+DB_NAME = "test2"
 
 
 def main():
     create_DB(DB_NAME)
-    os.chdir("Topic2")
+    os.chdir("Topic")
     listdir = os.listdir()
 
     for fileName in listdir:
         fname = os.path.splitext(fileName)
         table_name = fname[0]
         table_name = table_name.replace("-", "_")
+        table_name = table_name.replace(" ", "_")
         create_table(DB_NAME, table_name)
         with open(fileName, "r", encoding="utf-8") as f:
             try:
