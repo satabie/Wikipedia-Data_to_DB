@@ -19,7 +19,7 @@ DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_USER = "postgres"
 DB_PASS = "postgres"
-DB_NAME = "test2"
+DB_NAME = "test3"
 
 
 def main():
@@ -30,8 +30,8 @@ def main():
     for fileName in listdir:
         fname = os.path.splitext(fileName)
         table_name = fname[0]
-        table_name = table_name.replace("-", "_")
-        table_name = table_name.replace(" ", "_")
+
+        table_name = table_name.replace(")", "").replace("(", "").replace(",", "").replace("_", "").replace("-", "_").replace(" ", "_")
         create_table(DB_NAME, table_name)
         with open(fileName, "r", encoding="utf-8") as f:
             try:
@@ -49,8 +49,8 @@ def main():
                             ja_url = ja.fullurl
                             ja_text = ja.text
                         except:
-                            ja_url = "null"
-                            ja_text = "null"
+                            ja_url = ''
+                            ja_text = ''
                         # エラー避け
                         article = article.replace("'", "''")
                         en_text = en_text.replace("'", "''")
