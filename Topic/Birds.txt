@@ -32,13 +32,13 @@ Black-throated loon
 Black vulture
 Blue-faced honeyeater
 Bohemian waxwing
-Brazza's martin
+Brazzas martin
 Broad-billed parrot
 Cactus wren
 California condor
 Canada jay
 Cape sparrow
-Carnaby's black cockatoo
+Carnabys black cockatoo
 Cattle egret
 Choiseul pigeon
 Cockatoo
@@ -110,7 +110,7 @@ Mauritius sheldgoose
 Mistle thrush
 Mourning dove
 Nauru reed warbler
-Newton's parakeet
+Newtons parakeet
 Noisy miner
 Northern bald ibis
 Northern gannet
@@ -119,7 +119,7 @@ Northern rosella
 Nuthatch
 Pacific swift
 Pale crag martin
-Pallas's leaf warbler
+Pallass leaf warbler
 Papuan mountain pigeon
 Passenger pigeon
 Peregrine falcon
@@ -130,7 +130,7 @@ Pied currawong
 Pigeon guillemot
 Pitta
 Procellariidae
-Przevalski's nuthatch
+Przevalskis nuthatch
 Puerto Rican amazon
 Rainbow pitta
 Red-backed fairywren
@@ -201,4 +201,4 @@ Yellow-faced honeyeater
 Yellowhammer
 Yellow-tailed black cockatoo
 Zapata rail
-Zino's petrel
+Zinos petrel

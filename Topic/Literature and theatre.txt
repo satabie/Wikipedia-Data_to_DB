@@ -1,11 +1,11 @@
 Ace Books
 Ancient Egyptian literature
 Anglo-Saxon Chronicle
-Beowulf and Middle-earth|''Beowulf'' and Middle-earth
+Beowulf and Middle-earth|Beowulf and Middle-earth
 Black Hours, Morgan MS 493
-Drapier's Letters
+Drapiers Letters
 Dreamsnake
-Hemming's Cartulary
+Hemmings Cartulary
 Hermeneutic style
 A History of the Birds of Europe
 Hoysala literature
@@ -17,5 +17,6 @@ Ormulum
 Pilgrim at Tinker Creek
 Reception history of Jane Austen
 Shakespeare authorship question
+The Story of Miss Moppet
 Vijayanagara literature in Kannada
 Western Chalukya literature in Kannada

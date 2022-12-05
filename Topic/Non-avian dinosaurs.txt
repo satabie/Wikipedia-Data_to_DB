@@ -23,7 +23,7 @@ Dinosaur
 Dromaeosauroides
 Duriavenator
 Edmontosaurus
-Edmontosaurus mummy AMNH 5060|''Edmontosaurus'' mummy AMNH 5060
+Edmontosaurus mummy AMNH 5060|Edmontosaurus mummy AMNH 5060
 Gallimimus
 Giganotosaurus
 Gorgosaurus

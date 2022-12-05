@@ -16,7 +16,7 @@ Elasmosaurus
 Frog
 Galápagos tortoise
 Istiodactylus
-Jameson's mamba
+Jamesons mamba
 King brown snake
 Loggerhead sea turtle
 Mini scule
@@ -24,6 +24,7 @@ Mosasaurus
 Noronha skink
 Olm
 Painted turtle
+Peloneustes
 Phosphatodraco
 Red-bellied black snake
 Smooth newt

@@ -10,7 +10,7 @@
 2003 Sri Lanka cyclone
 2005 Azores subtropical storm
 2006 Westchester County tornado
-Christmas 1994 nor'easter
+Christmas 1994 noreaster
 Cyclone Ada
 Cyclone Althea
 Cyclone Berguitta
@@ -23,7 +23,7 @@ Cyclone Orson
 Cyclone Raja
 Cyclone Rewa
 Cyclone Waka
-December 1969 nor'easter
+December 1969 noreaster
 Effects of Hurricane Georges in Louisiana
 Effects of Hurricane Isabel in Delaware
 Effects of Hurricane Isabel in Maryland and Washington, D.C.
@@ -103,7 +103,7 @@ Meteorological history of Hurricane Ivan
 Meteorological history of Hurricane Jeanne
 Meteorological history of Hurricane Patricia
 Meteorological history of Hurricane Wilma
-Racer's hurricane
+Racers hurricane
 Subtropical Storm Andrea (2007)
 Tropical Depression Nineteen-E (2018)
 Tropical Depression Ten (2007)
