@@ -8,10 +8,8 @@ Armillaria gallica
 Armillaria luteobubalina
 Astraeus hygrometricus
 Auriscalpium vulgare
-Imleria badia
 Boletus aereus
 Boletus edulis
-Exsudoporus frostii
 Caloboletus calopus
 Calostoma cinnabarinum
 Calvatia sculpta
@@ -24,6 +22,7 @@ Cortinarius violaceus
 Cyathus
 Dendrocollybia
 Entoloma sinuatum
+Exsudoporus frostii
 Fungus
 Galerina marginata
 Geastrum quadrifidum
@@ -34,6 +33,7 @@ Gyromitra esculenta
 Hydnellum peckii
 Hydnum repandum
 Hygrophoropsis aurantiaca
+Imleria badia
 Imperator torosus
 Inocybe saliceticola
 Lactarius indigo

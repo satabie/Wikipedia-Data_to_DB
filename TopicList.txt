@@ -1,12 +1,13 @@
 Art, architecture, and archaeology
 Architecture and archaeology
 Art
+Paintings
 Biographies (art, architecture, and archaeology)
 Biology
 Fungi
 Plants
 Animals
-Mammals
+Mammals and stem mammals
 Birds
 Non-avian dinosaurs
 Reptiles and amphibians
@@ -29,6 +30,13 @@ Engineering and technology
 Engineering and technology biographies
 Food and drink
 Geography and places
+Bodies of water and water formations
+Cities, towns and villages
+Countries, regions and political entities
+Islands
+Landforms
+National and state parks, nature reserves, conservation areas, and countryside routes
+Other places
 Geology and geophysics
 Health and medicine
 Medical conditions and management
@@ -57,11 +65,15 @@ Episodes of television
 Media fictional characters
 Media biographies
 Meteorology and climate
+Seasons
 Storms
 Music
+Classical music works
 Albums
 Songs
 Music biographies
+Individuals
+Groups
 Philosophy and psychology
 Philosophy and psychology biographies
 Physics and astronomy
@@ -73,12 +85,37 @@ Religion, mysticism and mythology biographies
 Royalty and nobility
 Royalty and nobility biographies
 Sport and recreation
+Association football
+Baseball
+Boat race
+Cricket
+Cue sports
+Cycling
+Equestrianism
+Gridiron football
+Hockey
+Motorsports
+Olympics and Paralympics
+Wrestling
+Miscellaneous
 Sport and recreation biographies
 Transport
+Air transport
+Maritime transport
+Rail transport
+Railways, rail bridges, tunnels, and stations
+Trains and locomotives
+Road transport
+Road infrastructure
+Cars, trucks and vans
 Transport biographies
+Video gaming
 Video games
+Video game systems
 Video game fictional characters
 Warfare
-Warfare materiel
+Military equipment
+Military ships
+Military units
 Wars, battles and events
 Warfare biographies

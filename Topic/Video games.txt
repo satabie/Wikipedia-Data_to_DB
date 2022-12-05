@@ -1,6 +1,4 @@
-32X
-Agatha Christie: Murder on the Orient Express
-Age of Empires
+1080° Snowboarding
 Alleyway (video game)|Alleyway
 Anachronox
 Aquaria (video game)|''Aquaria'' (video game)
@@ -12,19 +10,21 @@ BioShock
 Blast Corps
 Broken Sword: The Shadow of the Templars
 Burning Rangers
+Call of Duty: Modern Warfare Remastered
 Call of Duty 4: Modern Warfare
-Capcom Five
 Castlevania: Aria of Sorrow
+Castlevania: Dawn of Sorrow
 Cave Story
 Children of Mana
 Chrono Cross
 Chrono Trigger
 Cloud (video game)|''Cloud'' (video game)
-Crackdown
-Crazy Taxi
+Colossal Cave Adventure
+Computer Space
+Conan (2007 video game)|''Conan'' (2007 video game)
+Crackdown (video game)|Crackdown
 Crush (video game)|''Crush'' (video game)
 Deathrow (video game)|''Deathrow'' (video game)
-Development of Grand Theft Auto V|Development of ''Grand Theft Auto V''
 Devil May Cry (video game)|''Devil May Cry'' (video game)
 Defense of the Ancients
 Dishonored
@@ -34,26 +34,29 @@ Drowned God
 Dungeon Siege
 The Elder Scrolls III: Morrowind
 The Elder Scrolls IV: Oblivion
-ESRB re-rating of The Elder Scrolls IV: Oblivion|ESRB re-rating of ''The Elder Scrolls IV: Oblivion''
 F-Zero GX
+Fallout (video game)|''Fallout'' (video game)
 Fallout 4: Far Harbor
 Fez (video game)|''Fez'' (video game)
-Final Fantasy
+Final Fantasy Tactics
 Final Fantasy Type-0
 Final Fantasy VI
 Final Fantasy VII
 Final Fantasy VIII
+Final Fantasy IX
 Final Fantasy X
 Final Fantasy XI
 Final Fantasy XII
 Final Fantasy XIII
+Final Fantasy XIII-2
 Flight Unlimited
 Flight Unlimited II
 Flight Unlimited III
+Flotilla (video game)|''Flotilla'' (video game)
+Flow (video game)|''Flow'' (video game)
 Flower (video game)|''Flower'' (video game)
 Freedom Planet
 Giants: Citizen Kabuto
-God of War (franchise)|''God of War'' (franchise)
 God of War (2005 video game)|''God of War'' (2005 video game)
 God of War II
 God of War III
@@ -61,7 +64,7 @@ God of War: Ascension
 God of War: Betrayal
 God of War: Chains of Olympus
 God of War: Ghost of Sparta
-Golden Sun
+Golden Sun (video game)
 Grand Theft Auto V
 Gravity Bone
 Grim Fandango
@@ -74,31 +77,32 @@ Halo: Reach
 Halo Wars
 Infinity Blade
 Iridion 3D
+Islanders (video game)|''Islanders'' (video game)
+Journey (2012 video game)|''Journey'' (2012 video game)
 Jumping Flash!
 Katamari Damacy
 Killer Instinct Gold
 Killer7
-Kingdom Hearts
 Kingdom Hearts (video game)|''Kingdom Hearts'' (video game)
 Kingdom Hearts II
 Knight Lore
 Knuckles' Chaotix
 The Last of Us
+League of Legends
 Legacy of Kain: Soul Reaver
 The Legend of Zelda: Link's Awakening
 The Legend of Zelda: Majora's Mask
 The Legend of Zelda: Ocarina of Time
+The Legend of Zelda: Oracle of Seasons and Oracle of Ages|''The Legend of Zelda: Oracle of Seasons'' and ''Oracle
+
 Limbo (video game)|''Limbo'' (video game)
 The Lord of the Rings: The Battle for Middle-earth II
 Lost Luggage (video game)|''Lost Luggage'' (video game)
-Mana (series)|''Mana'' (series)
 Maniac Mansion
 Marble Madness
 Mario & Sonic at the Olympic Games
 Mario Power Tennis
 Mass Effect 2
-Master System
-Menacer
 Metroid Prime
 Metroid Prime 2: Echoes
 Metroid Prime 3: Corruption
@@ -111,15 +115,19 @@ New Super Mario Bros.
 Nights into Dreams
 Nights: Journey of Dreams
 Ninja Gaiden (NES video game)|''Ninja Gaiden'' (NES video game)
-Nintendo DSi
-Okami
+Ōkami
+Oxenfree
+Paper Mario: Color Splash
+Paper Mario: The Origami King
 Pathways into Darkness
 Perfect Dark
 Phantasmagoria (video game)|''Phantasmagoria'' (video game)
 Planescape: Torment
-Pok�mon Channel
+Plants vs. Zombies (video game)|Plants vs. Zombies
+Pokémon Channel
 Populous: The Beginning
 Portal (video game)|''Portal'' (video game)
+Proteus (video game)|''Proteus'' (video game)
 Radical Dreamers
 Rare Replay
 Resident Evil 2
@@ -128,9 +136,6 @@ Riven
 Sabre Wulf
 Sacrifice (video game)|''Sacrifice'' (video game)
 Secret of Mana
-Sega
-Sega Genesis
-Sega Saturn
 Shadow of the Colossus
 Shadow the Hedgehog (video game)|''Shadow the Hedgehog'' (video game)
 Silent Hill 4: The Room
@@ -138,17 +143,23 @@ The Simpsons Game
 The Simpsons: Hit & Run
 Sinistar: Unleashed
 Sonic Adventure
-Sonic: After the Sequel
+Sonic After the Sequel
+Sonic the Hedgehog (2006 video game)|''Sonic the Hedgehog'' (2006 video game)
 Sonic Spinball
+Sonic X-treme
+South Park: The Stick of Truth
 Space Invaders
 Spider-Man (2018 video game)|''Spider-Man'' (2018 video game)
 Spyro: Year of the Dragon
-StarCraft (video game)|''StarCraft'' (video game)
+Star Control 3
 StarCraft: Ghost
 Star Wars Episode I: Battle for Naboo
 Star Wars: Rogue Squadron
 Super Mario 64
+Super Mario All-Stars
+Super Mario Bros.: The Lost Levels
 Super Mario Galaxy
+Super Mario World
 Super Meat Boy
 Super Smash Bros. Brawl
 Super Smash Bros. Melee
@@ -156,7 +167,6 @@ System Shock
 System Shock 2
 Tatsunoko vs. Capcom: Ultimate All-Stars
 Terra Nova: Strike Force Centauri
-Thatgamecompany
 Thief II
 Thirty Flights of Loving
 Tony Hawk's Underground
@@ -165,11 +175,11 @@ Turok: Dinosaur Hunter
 Ultima Underworld: The Stygian Abyss
 Uru: Ages Beyond Myst
 Vagrant Story
-Vampire: The Masquerade � Bloodlines
-Vampire: The Masquerade � Redemption
-Wii
+Vampire: The Masquerade – Bloodlines
+Vampire: The Masquerade – Redemption
 Wii Sports
 Wipeout 3
+Wipeout 2048
 Wolfenstein 3D
 The World Ends with You
 Zero Escape: Virtue's Last Reward

@@ -9,6 +9,7 @@ Antbird
 Arctic tern
 Atlantic puffin
 Australasian gannet
+Australian boobook
 Australian magpie
 Australian raven
 Aylesbury duck
@@ -16,14 +17,24 @@ Bald eagle
 Banded stilt
 Barn owl
 Barn swallow
+Bee-eater
 Bird
+Banded broadbill
+Black-and-red broadbill
+Black-and-yellow broadbill
+Black-breasted buttonquail
 Black currawong
 Black honeyeater
+Black-necked grebe
+Black-shouldered kite
 Black stork
+Black-throated loon
 Black vulture
 Blue-faced honeyeater
 Bohemian waxwing
+Brazza's martin
 Broad-billed parrot
+Cactus wren
 California condor
 Canada jay
 Cape sparrow
@@ -37,19 +48,27 @@ Common firecrest
 Common house martin
 Common raven
 Common starling
+Common tern
 Corn crake
 Crescent honeyeater
 Cuban macaw
+Delichon
 Dodo
 Echo parakeet
 Elfin woods warbler
 Emperor penguin
 Emu
+Eurasian blackcap
+Eurasian crag martin
 Eurasian nuthatch
 Eurasian tree sparrow
 Eurasian treecreeper
+European nightjar
+European rock pipit
+European storm petrel
 Fiji parrotfinch
 Flame robin
+Forest raven
 Frigatebird
 Fulvous whistling duck
 Garden warbler
@@ -59,9 +78,19 @@ Golden white-eye
 Great auk
 Greater crested tern
 Great spotted woodpecker
+Green rosella
+Grey currawong
+Grey-cowled wood rail
+Guadeloupe amazon
+Hooded pitohui
+Hoopoe starling
 Huia
+Inaccessible Island rail
+Indian roller
 Invisible rail
-Kakapo
+Kākāpō
+Kelenken
+Kererū
 Killdeer
 King Island emu
 King vulture
@@ -74,22 +103,31 @@ Mangrove swallow
 Mascarene grey parakeet
 Mascarene martin
 Mascarene parrot
+Masked booby
 Masked shrike
 Mauritius blue pigeon
+Mauritius sheldgoose
 Mistle thrush
 Mourning dove
 Nauru reed warbler
 Newton's parakeet
 Noisy miner
 Northern bald ibis
+Northern gannet
 Northern pintail
+Northern rosella
 Nuthatch
 Pacific swift
+Pale crag martin
 Pallas's leaf warbler
+Papuan mountain pigeon
 Passenger pigeon
 Peregrine falcon
+Perijá tapaculo
 Pelican
+Pied butcherbird
 Pied currawong
+Pigeon guillemot
 Pitta
 Procellariidae
 Przevalski's nuthatch
@@ -97,27 +135,42 @@ Puerto Rican amazon
 Rainbow pitta
 Red-backed fairywren
 Red-billed chough
+Red-billed quelea
 Red-billed tropicbird
+Red-capped parrot
 Red-capped robin
+Red-headed myzomela
 Red-necked grebe
 Red-tailed black cockatoo
 Red-tailed tropicbird
 Red-throated loon
 Red-winged fairywren
 Red rail
+Red warbler
+Red wattlebird
+Réunion ibis
+Réunion swamphen
+Ring ouzel
+Rock martin
+Rock parrot
 Rodrigues parrot
 Rodrigues rail
 Rodrigues solitaire
 Rodrigues starling
 Ruff (bird)
 Rufous-crowned sparrow
-Seabird
+Russet sparrow
+Saxaul sparrow
+Scarlet myzomela
+Secretarybird
+Seychelles parakeet
 Siberian accentor
 Sind sparrow
 Snoring rail
 Song thrush
 Splendid fairywren
 Spotted green pigeon
+St. Croix macaw
 Superb fairywren
 Tahiti rail
 Tawny owl
@@ -127,17 +180,25 @@ Trocaz pigeon
 Turkey vulture
 Turquoise parrot
 Variegated fairywren
+Vermilion flycatcher
 Water rail
+Water pipit
 Western jackdaw
+Western yellow robin
 White stork
+White swamphen
 White-bellied sea eagle
 White-breasted nuthatch
+White-eyed river martin
+White-headed fruit dove
 White-naped xenopsaris
 White-necked rockfowl
 White-rumped swallow
 White-winged fairywren
 Willie wagtail
+Wood stork
 Yellow-faced honeyeater
 Yellowhammer
 Yellow-tailed black cockatoo
 Zapata rail
+Zino's petrel

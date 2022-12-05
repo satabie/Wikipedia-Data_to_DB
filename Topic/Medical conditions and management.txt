@@ -1,9 +1,8 @@
-Acute myeloid leukemia
-Alzheimer's disease
-Autism
+Buruli ulcer
 Chagas disease
 Cholangiocarcinoma
 Coeliac disease
+Dementia with Lewy bodies
 Dengue fever
 Diffuse panbronchiolitis
 Endometrial cancer
@@ -11,13 +10,10 @@ Hepatorenal syndrome
 Influenza
 Lung cancer
 Major depressive disorder
-Management of multiple sclerosis
 Meningitis
-Multiple sclerosis
 Osteochondritis dissecans
 Oxygen toxicity
 Pancreatic cancer
-Parkinson's disease
 Polio
 Pulmonary contusion
 Rhabdomyolysis

@@ -10,6 +10,7 @@ Banksia aculeata
 Banksia attenuata
 Banksia aemula
 Banksia aquilonia
+Banksia blechnifolia
 Banksia brownii
 Banksia caleyi
 Banksia canei
@@ -26,8 +27,11 @@ Banksia marginata
 Banksia menziesii
 Banksia oblongifolia
 Banksia paludosa
+Banksia petiolaris
 Banksia prionotes
 Banksia scabrella
+Banksia sceptrum
+Banksia serrata
 Banksia sessilis
 Banksia speciosa
 Banksia sphaerocarpa
@@ -37,12 +41,16 @@ Banksia verticillata
 Banksia violacea
 Brachychiton rupestris
 Cucurbita
+Dracophyllum fiordense
 Drosera regia
 Epacris impressa
 Ficus aurea
+Ficus macrophylla
 Ficus obliqua
 Ficus rubiginosa
+Grevillea juniperina
 Isopogon anemonifolius
+Isopogon anethifolius
 Lambertia formosa
 Persoonia lanceolata
 Persoonia levis
@@ -50,6 +58,7 @@ Persoonia linearis
 Persoonia terminalis
 Pinguicula moranensis
 Salvia yangii
+Symphyotrichum lateriflorum
 Telopea oreades
 Telopea speciosissima
 Telopea truncata

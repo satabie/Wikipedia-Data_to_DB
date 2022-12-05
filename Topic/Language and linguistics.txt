@@ -6,10 +6,9 @@ Chinese classifier
 Decipherment of ancient Egyptian scripts
 Decipherment of rongorongo
 Gwoyeu Romatzyh
-Irish phonology
+Levantine Arabic
 Mayan languages
-Nafaanra
+Nafanan language
 Nahuatl
-Rongorongo
+Pronunciation of GIF
 Sentence spacing
-Tamil language

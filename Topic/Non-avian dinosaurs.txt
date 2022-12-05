@@ -1,3 +1,4 @@
+Achelousaurus
 Acrocanthosaurus
 Albertosaurus
 Allosaurus
@@ -5,10 +6,13 @@ Amargasaurus
 Ankylosaurus
 Apatosaurus
 Archaeopteryx
+Argentinosaurus
+Bajadasaurus
 Baryonyx
 Brachiosaurus
 Carnotaurus
 Ceratosaurus
+Cetiosauriscus
 Compsognathus
 Daspletosaurus
 Deinocheirus
@@ -17,6 +21,7 @@ Dilophosaurus
 Diplodocus
 Dinosaur
 Dromaeosauroides
+Duriavenator
 Edmontosaurus
 Edmontosaurus mummy AMNH 5060|''Edmontosaurus'' mummy AMNH 5060
 Gallimimus
@@ -29,17 +34,21 @@ Iguanodon
 Irritator
 Kosmoceratops
 Lambeosaurus
+Limusaurus
 Lythronax
 Majungasaurus
 Massospondylus
 Nemegtomaia
 Nigersaurus
+Opisthocoelicaudia
 Oxalaia
 Paranthodon
 Parasaurolophus
 Plateosaurus
+Podokesaurus
 Psittacosaurus
 Segnosaurus
+Siamosaurus
 Spinophorosaurus
 Stegosaurus
 Stegoceras

@@ -1,11 +1,11 @@
 Amy Adams
 Ben Affleck
-Sonam K Ahuja
 Ike Altgens
 Andjar Asmara
 James T. Aubrey
 Kroger Babb
 Vidya Balan
+Christian Bale
 Eric Bana
 Joseph Barbera
 John Barrymore
@@ -33,20 +33,27 @@ Anne Hathaway
 Ethan Hawke
 Katharine Hepburn
 Philip Seymour Hoffman
+Tom Holland
 Michael Hordern
 Kenneth Horne
+Nicholas Hoult
 Josh Hutcherson
-Satoru Iwata
+Oscar Isaac
 Hattie Jacques
 Peter Jennings
 Scarlett Johansson
 Angelina Jolie
+Katrina Kaif
+Dimple Kapadia
 Kareena Kapoor
+Sonam Kapoor
 Shah Rukh Khan
 Kalki Koechlin
 Brie Larson
 Jennifer Lawrence
 Vivien Leigh
+Angel Locsin
+Shaylee Mansfield
 Jacobus Anthonie Meessen
 Marilyn Monroe
 Julianne Moore
@@ -61,15 +68,19 @@ Kangana Ranaut
 Satyajit Ray
 Roekiah
 Hrithik Roshan
+Judy Ann Santos
+Peter Sellers
+Shefali Shah
 Sebastian Shaw (actor)
 Red Skelton
 Aaron Sorkin
+Rod Steiger
 Emma Stone
 Terry-Thomas
 Jack L. Warner
 Emma Watson
+Michelle Williams (actress)
 Kate Winslet
 Reese Witherspoon
-Anna May Wong
 Catherine Zeta-Jones
 Preity Zinta

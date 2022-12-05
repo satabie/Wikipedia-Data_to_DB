@@ -7,9 +7,7 @@ Apus
 Ariel (moon)
 Aries (constellation)
 Asteroid belt
-Astrophysics Data System
 Atmosphere of Jupiter
-Atom
 Auriga (constellation)
 Barnard's Star
 Betelgeuse
@@ -19,10 +17,11 @@ Canis Major
 Canis Minor
 Capella
 Cat's Eye Nebula
+Ceres (dwarf planet)
 Circinus
-Comet Hale�Bopp
+Comet Hale–Bopp
 Comet Hyakutake
-Comet Shoemaker�Levy 9
+Comet Shoemaker–Levy 9
 Corona Australis
 Corona Borealis
 Corvus (constellation)
@@ -50,7 +49,7 @@ Grus (constellation)
 H II region
 Halley's Comet
 Haumea
-Herbig�Haro object
+Herbig–Haro object
 History of Mars observation
 Horologium (constellation)
 Hubble Deep Field
@@ -60,11 +59,10 @@ IK Pegasi
 Introduction to general relativity
 Io (moon)
 Island of stability
-Jupiter
 Jupiter trojan
 Kreutz sungrazer
 Kuiper belt
-Laplace�Runge�Lenz vector
+Laplace–Runge–Lenz vector
 Leo Minor
 Lynx (constellation)
 M-theory
@@ -96,10 +94,12 @@ Proxima Centauri
 Pyxis
 Quark
 Redshift
+Rigel
 Rings of Jupiter
 Rings of Neptune
 Rings of Uranus
 Saturn
+Sagitta
 Scattered disc
 Serpens
 Sirius
@@ -116,7 +116,6 @@ Telescopium
 Titan (moon)
 Titania (moon)
 Toronto Magnetic and Meteorological Observatory
-Transit of Venus
 Triangulum
 Triangulum Australe
 Triton (moon)
@@ -126,5 +125,5 @@ Uranus
 Ursa Minor
 Vega
 Venus
-Volcanology of Io
+Volcanism on Io
 White dwarf

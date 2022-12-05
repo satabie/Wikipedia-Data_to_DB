@@ -1,4 +1,3 @@
-Cyclol
 Diamond
 Enzyme
 Enzyme inhibitor

@@ -1,21 +1,20 @@
 Lazarus Aaronson
 Chinua Achebe
-M�rio de Andrade
+Mário de Andrade
 Maya Angelou
-Augusta, Lady Gregory
-James Robert Baker
-Honor� de Balzac
+Honoré de Balzac
 Ann Bannon
-Anna Laetitia Barbauld
 Natalie Clifford Barney
+Arnold Bennett
 Enid Blyton
 R. V. C. Bodley
 Neville Cardus
 Rachel Carson
-Anton Chekhov
+Colin Robert Chase
 Colley Cibber
 Brunette Coleman
-No�l Coward
+Corinna
+Noël Coward
 Stephen Crane
 John Day (printer)
 Emily Dickinson
@@ -23,14 +22,16 @@ Du Fu
 Early life of Samuel Johnson
 Isabelle Eberhardt
 Edmund Evans
-Zelda Fitzgerald
+Georges Feydeau
 Ian Fleming
 Stella Gibbons
 William Gibson
 W. S. Gilbert
+Lady Gregory
 Joseph Grimaldi
 Rufus Wilmot Griswold
 Richard Hakluyt
+John Richard Clark Hall
 Amir Hamzah
 H.D.
 Ernest Hemingway
@@ -55,13 +56,14 @@ Marie Lloyd
 James Russell Lowell
 Nigel Kneale
 H. C. McNeile
-Bruno Maddox
 Olivia Manning
 Francis Marrash
 Master Juba
 Frank Matcham
+W. Somerset Maugham
 Nancy Mitford
 George Moore (novelist)
+John Neal (writer)
 Laurence Olivier
 George Robey
 Murasaki Shikibu
@@ -69,11 +71,13 @@ Philitas of Cos
 Harold Pinter
 Edgar Allan Poe
 Virginia Eliza Clemm Poe
+Ezra Pound
 Adelaide Anne Procter
 Jean-Joseph Rabearivelo
-Ion Heliade Radulescu
+Ion Heliade Rădulescu
 Talbot Baines Reed
 Ralph Richardson
+Robert Roberts (writer)
 J. K. Rowling
 Olivia Shakespear
 William Shakespeare
@@ -84,8 +88,7 @@ Asylum confinement of Christopher Smart
 John Millington Synge
 William Beach Thomas
 J. R. R. Tolkien
-Sarah Trimmer
-Mario Vargas Llosa
+Kurt Vonnegut
 Hugh Walpole
 Evelyn Waugh
 Nathaniel Parker Willis

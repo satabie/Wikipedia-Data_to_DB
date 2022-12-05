@@ -5,6 +5,7 @@ Dubnium
 Fluorine
 Francium
 Germanium
+Hassium
 Helium
 Hydrogen
 Iridium
@@ -17,7 +18,6 @@ Plutonium
 Technetium
 Tennessine
 Thorium
-Titanium
 Uranium
 Xenon
 Yttrium
