@@ -12,12 +12,19 @@ $ git clone https://github.com/satabie/wikipedia-Data_to_DB.git &&
 cd wikipedia-Data_to_DB
 ```
 
-[wikipedia:featured articles](https://en.wikipedia.org/wiki/Wikipedia:Featured_articles)へアクセスし，ソースの内容をwiki_feature_articles.txtへコピペする
+[wikipedia:featured articles](https://en.wikipedia.org/wiki/Wikipedia:Featured_articles)へアクセスし，ソースの内容をwiki_feature_articles.txtへコピペする。HTMLのタグ等が書かれた部分は削除してください。
 
 
-簡単な前処理をするスクリプト。必要に応じてbashに書き換えるなどしてください。
+簡単な前処理をするスクリプト。自分の環境に合わせて実行してください。
+### fish
+```fish
+$ chmod +x remove_quot.fish
+$ ./remove_quot.fish
 ```
-./remove_quot.fish
+### bash, zsh
+```bash
+$ chmod +x remove_quot.sh
+$ ./remove.sh
 ```
 
 
